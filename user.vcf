@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Ong;Vanessa;;;
+FN: Vanessa  Ong 
+ORG:HOL Experiences Pte Ltd.;
+TITLE:UI/UX Design Intern\nDesign Team, HOL Experiences
+EMAIL;type=INTERNET;type=WORK;type=pref:vanonghuijuan@gmail.com
+TEL;type=WORK;type=VOICE:+65 9784 9092
+item1.ADR;type=WORK;type=pref:;;36 Armenian Street\n#05-11;;;Singapore;179934
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.hol.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
