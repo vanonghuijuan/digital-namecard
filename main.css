@@ -168,7 +168,7 @@ img.profile-pic {
 }
 
 .button {
-	background-color: #54565B;
+	background-color: #C3D600;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -176,7 +176,7 @@ img.profile-pic {
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: #C3D600;
+	color: #54565B;
 	font-weight: 300;
 }
 
